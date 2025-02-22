@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Page Text Extractor",
     "version": "1.0",
-    "description": "Extracts all text from the current page and downloads it as a .txt file.",
+    "description": "Extracts all data from the current page and downloads it as a .json file.",
     "action": {
       "default_popup": "popup.html",
       "default_icon": {
